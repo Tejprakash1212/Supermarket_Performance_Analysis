@@ -11,7 +11,7 @@ Data Quality: No missing values or duplicates
 
 🛠️ Tools & Technologies
 Python: pandas, numpy, matplotlib, seaborn (EDA & cleaning)
-SQL: PostgreSQL / MySQL / SQL Server (window & aggregate functions)
+SQL: PostgreSQL  (window & aggregate functions)
 Power BI: Dashboard & visualization
 DAX: KPIs and calculated measures
 
